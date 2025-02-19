@@ -1,6 +1,6 @@
 from tkinter import *
 root = Tk()
-root.title("Menghitung Keliling dan Luas Bangun Datar hehe")
+root.title("Menghitung Keliling dan Luas Bangun Datar")
 root.geometry("730x480")
 root.config(background="white")
 
